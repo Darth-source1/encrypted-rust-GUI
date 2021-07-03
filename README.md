@@ -1,2 +1,2 @@
 # encrypted-rust-GUI
-a demo for encrypto a decrypt with a program in rust with a cool GUI
+a demo for encrypt or decrypt with a GUI-tool in rust with a cool GUI
